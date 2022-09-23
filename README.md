@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harvir
 - 👀 I’m interested in full stack development for both website and mobile applications.
-- 🌱 I’m currently learning swift,kotlin and laravel.
+- 🌱 I’m currently learning laravel.
 - 💞️ I’m looking to collaborate on projects that can solve real life problems and make changes/impact.
 - 📫 How to reach me -> harvir555@hotmail.com
